@@ -64,3 +64,5 @@ NOTA: app.module.ts può collegare un numero n di componente e ogni componente �
 
 - su page-one.component.html, ho messo <p>Il nome del Pokemon è: {{pokemonName | async}}</p> perché mostri il nome del Pokemon sulla pagina.
 
+
+TASK: FARE IL TUTORIAL DI ANGULAR 15     https://v15.angular.io/tutorial/tour-of-heroes
